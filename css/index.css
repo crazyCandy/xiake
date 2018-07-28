@@ -554,23 +554,22 @@ input, img {
 .link .back {
     width: 0.9rem;
     height: 0.9rem;
-    /* left: 0; */
-    right: 30px;
+    right: 0.3rem;
     position: absolute;
     margin: auto;
-    bottom: 40px;
+    bottom: 1.8rem;
     z-index: 999;
     right: 1;
     animation:myScsle  2s 1s infinite;
 }
 .link  .back a{
-    width: 60px;
-    height:60px;
+    width:0.6rem;
+    height:0.6rem;
     display: block;
     opacity: 1;
     border-radius: 100%;
     -webkit-border-radius: 100%;
-    line-height: 60px;
+    line-height: 0.6rem;
     text-align: center;
     font-size: 20px;
     color: #FFB902;
@@ -676,16 +675,16 @@ input, img {
     transform: rotate(-90deg);
     -webkit-transform: rotate(-90deg);
     position: absolute;
-    bottom: 10px;
+    bottom:0.1rem;
     left: 50%;
-    margin-left: -30px;
-    width: 60px;
-    height: 60px;
+    margin-left: -0.3rem;
+    width:0.6rem;
+    height:0.6rem;
     border-radius: 100%;
     -webkit-border-radius: 100%;
-    line-height: 60px;
+    line-height: 0.6rem;
     text-align: center;
-    font-size: 20px;
+    font-size: 0.2rem;
     color: #fff;
     border: 1px solid #fff;
     cursor: pointer;
