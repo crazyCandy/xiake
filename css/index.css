@@ -408,10 +408,14 @@ input, img {
     margin: 12px auto 8px;
 }
 
+.teams:hover .team_con .team_intro {
+    color:#FFB902; 
+}
 .teams .team_con .team_intro {
     text-align: center;
     font-size: 0.22rem;
-    color: #999999;
+    padding: 48px;
+    color: #666;
 }
 
 /*关于我们*/
